@@ -398,7 +398,7 @@ list.
 
 .. _Project Documentation Overview: docs/index.html
 .. _project page: https://sourceforge.net/p/docutils
-.. _Docutils-users: docs/user/mailing-lists.html#docutils-users
+.. _Docutils-users: docs/user/mailing-lists.html
 
 
 .. Emacs settings
